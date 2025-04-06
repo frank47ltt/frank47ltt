@@ -7,15 +7,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 March 2025 - To: 03 April 2025
+From: 25 March 2025 - To: 04 April 2025
 
-Total Time: 5 hrs 23 mins
+Total Time: 8 hrs 34 mins
 
-C            5 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>----   84.32 %
-Other        54 mins         >>>>---------------------   14.51 %
-Git Config   2 mins          -------------------------   00.74 %
-Makefile     1 min           -------------------------   00.34 %
-Text         0 secs          -------------------------   00.09 %
+C            8 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>----   85.95 %
+Other        54 mins         >>-----------------------   09.65 %
+C++          18 mins         >------------------------   03.30 %
+Git Config   2 mins          -------------------------   00.49 %
+Makefile     2 mins          -------------------------   00.36 %
+Java         1 min           -------------------------   00.18 %
+Text         0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
